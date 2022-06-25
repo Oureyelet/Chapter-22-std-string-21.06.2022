@@ -114,7 +114,5 @@ int main()
     first.swap(second);
     std::cout << first << ' ' << second << '\n'; // print first second
 
-
-
     return 0;
 }
